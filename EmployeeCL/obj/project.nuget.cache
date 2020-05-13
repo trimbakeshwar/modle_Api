@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ojtvqTMk4WmEJuKOdGZsZVjHjcbsc7/LJCLeqS40PIeNZmbz2CL1qlxUy/xCsb9VpNQV55ayLVko9MrERj8NAg==",
+  "success": true,
+  "projectFilePath": "D:\\trimbak\\EmployeeManagementSystem\\EmployeeCL\\EmployeeCL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dhananjay\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dhananjay\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

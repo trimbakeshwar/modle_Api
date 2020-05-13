@@ -1,0 +1,51 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "EmployeeBL/1.0.0": {
+        "dependencies": {
+          "EmployeeCL": "1.0.0",
+          "EmployeeRl": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeBL.dll": {}
+        }
+      },
+      "EmployeeCL/1.0.0": {
+        "runtime": {
+          "EmployeeCL.dll": {}
+        }
+      },
+      "EmployeeRl/1.0.0": {
+        "dependencies": {
+          "EmployeeCL": "1.0.0"
+        },
+        "runtime": {
+          "EmployeeRl.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeBL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeCL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmployeeRl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

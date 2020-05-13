@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETStandard,Version=v2.1": {
+      "EmployeeCL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/EmployeeCL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EmployeeCL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmployeeCL/1.0.0": {
+      "type": "project",
+      "path": "../EmployeeCL/EmployeeCL.csproj",
+      "msbuildProject": "../EmployeeCL/EmployeeCL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETStandard,Version=v2.1": [
+      "EmployeeCL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dhananjay\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\trimbak\\EmployeeManagementSystem\\EmployeeRl\\EmployeeRl.csproj",
+      "projectName": "EmployeeRl",
+      "projectPath": "D:\\trimbak\\EmployeeManagementSystem\\EmployeeRl\\EmployeeRl.csproj",
+      "packagesPath": "C:\\Users\\Dhananjay\\.nuget\\packages\\",
+      "outputPath": "D:\\trimbak\\EmployeeManagementSystem\\EmployeeRl\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Dhananjay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netstandard2.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "projectReferences": {
+            "D:\\trimbak\\EmployeeManagementSystem\\EmployeeCL\\EmployeeCL.csproj": {
+              "projectPath": "D:\\trimbak\\EmployeeManagementSystem\\EmployeeCL\\EmployeeCL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "NETStandard.Library": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

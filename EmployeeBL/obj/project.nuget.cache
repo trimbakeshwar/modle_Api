@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "SMxgwfz3kgInXxgixKQrfF86cDaT84XPl/6I6RVUoQFrx4cJqIMSTVFHWwANwnMlm8GVaddc5lUrGNuxu7duAw==",
+  "success": false,
+  "projectFilePath": "D:\\trimbak\\EmployeeManagementSystem\\EmployeeBL\\EmployeeBL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dhananjay\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dhananjay\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project EmployeeRl is not compatible with netstandard2.0 (.NETStandard,Version=v2.0). Project EmployeeRl supports: netstandard2.1 (.NETStandard,Version=v2.1)",
+      "libraryId": "EmployeeRl",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

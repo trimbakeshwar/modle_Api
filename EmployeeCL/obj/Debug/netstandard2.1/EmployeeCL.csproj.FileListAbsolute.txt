@@ -1,0 +1,9 @@
+D:\trimbak\EmployeeManagementSystem\EmployeeCL\bin\Debug\netstandard2.1\EmployeeCL.deps.json
+D:\trimbak\EmployeeManagementSystem\EmployeeCL\bin\Debug\netstandard2.1\EmployeeCL.dll
+D:\trimbak\EmployeeManagementSystem\EmployeeCL\bin\Debug\netstandard2.1\EmployeeCL.pdb
+D:\trimbak\EmployeeManagementSystem\EmployeeCL\obj\Debug\netstandard2.1\EmployeeCL.csprojAssemblyReference.cache
+D:\trimbak\EmployeeManagementSystem\EmployeeCL\obj\Debug\netstandard2.1\EmployeeCL.csproj.CoreCompileInputs.cache
+D:\trimbak\EmployeeManagementSystem\EmployeeCL\obj\Debug\netstandard2.1\EmployeeCL.AssemblyInfoInputs.cache
+D:\trimbak\EmployeeManagementSystem\EmployeeCL\obj\Debug\netstandard2.1\EmployeeCL.AssemblyInfo.cs
+D:\trimbak\EmployeeManagementSystem\EmployeeCL\obj\Debug\netstandard2.1\EmployeeCL.dll
+D:\trimbak\EmployeeManagementSystem\EmployeeCL\obj\Debug\netstandard2.1\EmployeeCL.pdb

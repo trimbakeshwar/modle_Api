@@ -1,0 +1,14 @@
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\bin\Debug\netstandard2.1\EmployeeBL.deps.json
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\bin\Debug\netstandard2.1\EmployeeBL.dll
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\bin\Debug\netstandard2.1\EmployeeBL.pdb
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\bin\Debug\netstandard2.1\EmployeeCL.dll
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\bin\Debug\netstandard2.1\EmployeeRl.dll
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\bin\Debug\netstandard2.1\EmployeeCL.pdb
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\bin\Debug\netstandard2.1\EmployeeRl.pdb
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\obj\Debug\netstandard2.1\EmployeeBL.csprojAssemblyReference.cache
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\obj\Debug\netstandard2.1\EmployeeBL.csproj.CoreCompileInputs.cache
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\obj\Debug\netstandard2.1\EmployeeBL.AssemblyInfoInputs.cache
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\obj\Debug\netstandard2.1\EmployeeBL.AssemblyInfo.cs
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\obj\Debug\netstandard2.1\EmployeeBL.csproj.CopyComplete
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\obj\Debug\netstandard2.1\EmployeeBL.dll
+D:\trimbak\EmployeeManagementSystem\EmployeeBL\obj\Debug\netstandard2.1\EmployeeBL.pdb
